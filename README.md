@@ -1,2 +1,2 @@
-# s2i-builder-image
-EnMasse s2i builder image
+# s2i-java-builder
+EnMasse s2i image for building java components
